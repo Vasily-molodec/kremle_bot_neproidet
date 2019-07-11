@@ -3,7 +3,7 @@ import time
 from telebot import types
 
 
-bot = telebot.TeleBot('759513597:AAEaq63U1g8oL1spLgN-OiEhAWfp7Hfk3Mw')
+bot = telebot.TeleBot('')
 firstnum = 0
 secondnum = 0
 point = ''
